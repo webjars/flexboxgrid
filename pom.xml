@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>flexboxgrid</artifactId>
-    <version>6.2.0</version>
+    <version>6.2.1-SNAPSHOT</version>
     <name>flexboxgrid</name>
     <description>WebJar for flexboxgrid</description>
     <url>http://webjars.org</url>
@@ -36,7 +36,7 @@
         <url>http://github.com/webjars/flexboxgrid</url>
         <connection>scm:git:https://github.com/webjars/flexboxgrid.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/flexboxgrid.git</developerConnection>
-        <tag>flexboxgrid-6.2.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <properties>
